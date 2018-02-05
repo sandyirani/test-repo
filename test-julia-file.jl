@@ -1,3 +1,3 @@
 function testFunction(n)
-  Return(n*n*n)
+  return(n*n)
 end
